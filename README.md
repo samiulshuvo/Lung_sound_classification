@@ -22,7 +22,7 @@ Employing the proposed framework, weighted accuracy scores of 99.20% for ternary
 
 <img alt="Architecture" src="images/Confusion-matrices-for-the-best-results-obtained-in-six-class-Pathological.jpg" width=450>
 
-<img alt="Architecture" src="images/Confusion-matrices-for-the-best-imagess-obtained-in-six-class-Pathological.jpg" width=450>
+<img alt="Architecture" src="images/Confusion-matrices-for-the-best-results-obtained-in-3-class-chronic-classification.jpg" width=450>
 
 ### **Citation:** 
 If you use the code in your paper, then please cite it as:
