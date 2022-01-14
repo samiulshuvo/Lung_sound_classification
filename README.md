@@ -20,7 +20,7 @@ Used the processed and saved scalogram as inputs to Convolutional Neural Network
 ### **Results:**
 Employing the proposed framework, weighted accuracy scores of 99.20% for ternary chronic classification and 99.05% for six-class pathological classification are achieved, which outperform well-known and much larger VGG16 in terms of accuracy by 0.52% and 1.77% respectively. The proposed CNN model also outperforms other contemporary lightweight models while being computationally comparable.
 
-<img alt="Architecture" src="images/Confusion-matrices-for-the-best-imagess-obtained-in-3-class-chronic-classification.jpg" width=450>
+<img alt="Architecture" src="images/Confusion-matrices-for-the-best-results-obtained-in-six-class-Pathological.jpg" width=450>
 
 <img alt="Architecture" src="images/Confusion-matrices-for-the-best-imagess-obtained-in-six-class-Pathological.jpg" width=450>
 
