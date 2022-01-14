@@ -3,7 +3,7 @@
 
 **Objective:** Listening to lung sounds through auscultation is vital in examining the respiratory system for abnormalities. Automated analysis of lung auscultation sounds can be beneficial to the health systems in low-resource settings where there is a lack of skilled physicians. In this work, we propose a lightweight convolutional neural network (CNN) architecture to classify respiratory diseases using hybrid scalogram-based features of lung sounds. The hybrid scalogram features utilize the empirical mode decomposition (EMD) and continuous wavelet transform (CWT).The proposed scheme’s performance is studied using a patient independent train-validation set from the publicly available ICBHI 2017 lung sound dataset. 
 
-<img alt="Architecture" src="result/final_cut.png" width=450>
+<img alt="Architecture" src="result/final_cut.png" width=600>
 
 **Data:** 
 ICBHI (International Conference on Biomedical Health
@@ -14,7 +14,7 @@ Informatics) 2017 database is a publicly available benchmark dataset of lung aus
 **CNN Architecture:**
 Used the processed and saved scalogram as inputs to Convolutional Neural Network with the following network architecture to classify the respiratory data:
 
-<img alt="Architecture" src="result The-detailed-architecture-of-the-proposed-lightweight-CNN-model.jpg" width=450>
+<img alt="Architecture" src="result/The-detailed-architecture-of-the-proposed-lightweight-CNN-model.jpg" width=450>
 
 **Results:**
 Employing the proposed framework, weighted accuracy scores of 99.20% for ternary chronic classification and 99.05% for six-class pathological classification are achieved, which outperform well-known and much larger VGG16 in terms of accuracy by 0.52% and 1.77% respectively. The proposed CNN model also outperforms other contemporary lightweight models while being computationally comparable.
